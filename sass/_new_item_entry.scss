@@ -33,7 +33,7 @@
       border-radius: 10px;
       padding: 10px;
       padding-block-end: 0.75rem;
-      @include mp(768ox) {
+      @include mq(768ox) {
         font-size: 1.5rem;
       }
     }

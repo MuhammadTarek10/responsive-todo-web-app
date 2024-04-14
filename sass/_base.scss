@@ -7,7 +7,7 @@ $button-textcolor: #ffffff;
 $add-button-color: green;
 $clear-button-color: grey;
 
-@mixin mp($size) {
+@mixin mq($size) {
   @media only screen and (min-width: $size) {
     @content;
   }
@@ -26,7 +26,7 @@ body {
   color: $default-font-color;
   width: 100%;
   min-height: 100%;
-  @include mp(768px) {
+  @include mq(768px) {
     font-size: 22px;
   }
 }

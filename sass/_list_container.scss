@@ -13,7 +13,7 @@
       padding: 0 0.1rem;
       margin-bottom: 0.5rem;
       border-radius: 10px;
-      @include mp(768px) {
+      @include mq(768px) {
         padding: 0 0.5rem;
       }
     }
