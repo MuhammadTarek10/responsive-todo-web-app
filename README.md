@@ -1,7 +1,7 @@
 # Making Responsive Web App
 
 Making Responsive Web App is a practical demonstration of responsive web design principles, inspired by the comprehensive course available on the FreeCodeCamp channel. This project showcases a simple yet powerful TODO list application, designed to seamlessly adapt to various device sizes. Users can effortlessly add and delete tasks, with data persistence ensured through local storage integration.
-This is by doing the course [Here](https://www.youtube.com/watch?v=y51Cv4wnsPw) with the great channel [FreeCodeCamp](https://www.youtube.com/@freecodecamp)
+This is by following [This Course](https://www.youtube.com/watch?v=y51Cv4wnsPw) with the great channel [FreeCodeCamp](https://www.youtube.com/@freecodecamp)
 
 
 # Simple TODO List
